@@ -1,1 +1,2 @@
-"William Ho" 
+William Ho
+how@oregonstate.edu
